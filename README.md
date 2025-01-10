@@ -40,7 +40,9 @@ Below is given a set of images stores in the flying test. From left to right, Gr
 ## Requirements
 
 The following list provides the minimum requirements to run the project.
-
+    python==3.6
+    opencv-python==3.4.2.16
+    opencv-contrib-python==3.4.2.16
     matplotlib >= 3.0.3
     cv2 >= 3.4.0
     numpy >= 1.16.2
